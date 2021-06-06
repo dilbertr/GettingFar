@@ -1,0 +1,1957 @@
+('C:\\Users\\Lorenzo Wolczko\\Downloads\\gf\\build\\getting_far\\PYZ-00.pyz',
+ [('multiprocessing.popen_spawn_posix',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\string.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\token.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\os.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('pynput.keyboard',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\keyboard\\__init__.py',
+   'PYMODULE'),
+  ('pynput.keyboard._xorg',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\keyboard\\_xorg.py',
+   'PYMODULE'),
+  ('pynput._util.xorg_keysyms',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\_util\\xorg_keysyms.py',
+   'PYMODULE'),
+  ('pynput._util.xorg',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\_util\\xorg.py',
+   'PYMODULE'),
+  ('pynput.keyboard._win32',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\keyboard\\_win32.py',
+   'PYMODULE'),
+  ('pynput._util.win32',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\_util\\win32.py',
+   'PYMODULE'),
+  ('pynput._util.win32_vks',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\_util\\win32_vks.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('pynput.keyboard._darwin',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\keyboard\\_darwin.py',
+   'PYMODULE'),
+  ('pynput._util.darwin',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\_util\\darwin.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pynput._util',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\_util\\__init__.py',
+   'PYMODULE'),
+  ('pynput.keyboard._base',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\keyboard\\_base.py',
+   'PYMODULE'),
+  ('pynput',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\__init__.py',
+   'PYMODULE'),
+  ('pynput.mouse',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\mouse\\__init__.py',
+   'PYMODULE'),
+  ('pynput.mouse._xorg',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\mouse\\_xorg.py',
+   'PYMODULE'),
+  ('pynput.mouse._win32',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\mouse\\_win32.py',
+   'PYMODULE'),
+  ('pynput.mouse._darwin',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\mouse\\_darwin.py',
+   'PYMODULE'),
+  ('pynput.mouse._base',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pynput\\mouse\\_base.py',
+   'PYMODULE'),
+  ('gd',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\__init__.py',
+   'PYMODULE'),
+  ('gd.typing',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\typing.py',
+   'PYMODULE'),
+  ('gd.server',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\server.py',
+   'PYMODULE'),
+  ('multidict',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\multidict\\__init__.py',
+   'PYMODULE'),
+  ('multidict._multidict_py',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\multidict\\_multidict_py.py',
+   'PYMODULE'),
+  ('multidict._compat',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\multidict\\_compat.py',
+   'PYMODULE'),
+  ('multidict._abc',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\multidict\\_abc.py',
+   'PYMODULE'),
+  ('aiohttp.web',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web.py',
+   'PYMODULE'),
+  ('aiohttp.web_ws',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_ws.py',
+   'PYMODULE'),
+  ('aiohttp.typedefs',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\typedefs.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('yarl',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\yarl\\__init__.py',
+   'PYMODULE'),
+  ('yarl._url',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\yarl\\_url.py',
+   'PYMODULE'),
+  ('yarl._quoting',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\yarl\\_quoting.py',
+   'PYMODULE'),
+  ('yarl._quoting_py',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\yarl\\_quoting_py.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('aiohttp.streams',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\streams.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('aiohttp.base_protocol',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\base_protocol.py',
+   'PYMODULE'),
+  ('aiohttp.tcp_helpers',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\tcp_helpers.py',
+   'PYMODULE'),
+  ('aiohttp.http',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\http.py',
+   'PYMODULE'),
+  ('aiohttp.http_writer',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\http_writer.py',
+   'PYMODULE'),
+  ('aiohttp.http_websocket',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\http_websocket.py',
+   'PYMODULE'),
+  ('aiohttp.http_parser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\http_parser.py',
+   'PYMODULE'),
+  ('aiohttp.http_exceptions',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\http_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.hdrs',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\hdrs.py',
+   'PYMODULE'),
+  ('attr',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\__init__.py',
+   'PYMODULE'),
+  ('attr._next_gen',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\_next_gen.py',
+   'PYMODULE'),
+  ('attr._version_info',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\_version_info.py',
+   'PYMODULE'),
+  ('attr._make',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\_make.py',
+   'PYMODULE'),
+  ('attr._compat',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\_compat.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\uuid.py',
+   'PYMODULE'),
+  ('attr._funcs',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\_funcs.py',
+   'PYMODULE'),
+  ('attr._cmp',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\_cmp.py',
+   'PYMODULE'),
+  ('attr.validators',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\validators.py',
+   'PYMODULE'),
+  ('attr.filters',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\filters.py',
+   'PYMODULE'),
+  ('attr.exceptions',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\exceptions.py',
+   'PYMODULE'),
+  ('attr.converters',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\converters.py',
+   'PYMODULE'),
+  ('attr.setters',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\setters.py',
+   'PYMODULE'),
+  ('attr._config',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\attr\\_config.py',
+   'PYMODULE'),
+  ('async_timeout',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\async_timeout\\__init__.py',
+   'PYMODULE'),
+  ('aiohttp.web_urldispatcher',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_urldispatcher.py',
+   'PYMODULE'),
+  ('aiohttp.web_server',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_server.py',
+   'PYMODULE'),
+  ('aiohttp.web_runner',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_runner.py',
+   'PYMODULE'),
+  ('aiohttp.web_routedef',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_routedef.py',
+   'PYMODULE'),
+  ('aiohttp.web_response',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_response.py',
+   'PYMODULE'),
+  ('aiohttp.payload',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\payload.py',
+   'PYMODULE'),
+  ('aiohttp.web_request',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_request.py',
+   'PYMODULE'),
+  ('aiohttp.multipart',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\multipart.py',
+   'PYMODULE'),
+  ('aiohttp.client_reqrep',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\client_reqrep.py',
+   'PYMODULE'),
+  ('aiohttp.tracing',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\tracing.py',
+   'PYMODULE'),
+  ('aiohttp.signals',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\signals.py',
+   'PYMODULE'),
+  ('aiohttp.frozenlist',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\frozenlist.py',
+   'PYMODULE'),
+  ('aiohttp.connector',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\connector.py',
+   'PYMODULE'),
+  ('aiohttp.resolver',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\resolver.py',
+   'PYMODULE'),
+  ('aiohttp.locks',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\locks.py',
+   'PYMODULE'),
+  ('aiohttp.client_proto',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\client_proto.py',
+   'PYMODULE'),
+  ('aiohttp.client',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\client.py',
+   'PYMODULE'),
+  ('aiohttp.cookiejar',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\cookiejar.py',
+   'PYMODULE'),
+  ('aiohttp.client_ws',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\client_ws.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langrussianmodel',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langrussianmodel.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('aiohttp.formdata',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\formdata.py',
+   'PYMODULE'),
+  ('aiohttp.client_exceptions',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\client_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.web_protocol',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_protocol.py',
+   'PYMODULE'),
+  ('aiohttp.web_middlewares',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_middlewares.py',
+   'PYMODULE'),
+  ('aiohttp.web_log',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_log.py',
+   'PYMODULE'),
+  ('aiohttp.web_fileresponse',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_fileresponse.py',
+   'PYMODULE'),
+  ('aiohttp.web_exceptions',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.web_app',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\web_app.py',
+   'PYMODULE'),
+  ('aiohttp.log',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\log.py',
+   'PYMODULE'),
+  ('aiohttp.helpers',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\helpers.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\cgi.py',
+   'PYMODULE'),
+  ('aiohttp.abc',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\abc.py',
+   'PYMODULE'),
+  ('aiohttp',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\__init__.py',
+   'PYMODULE'),
+  ('aiohttp.worker',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\worker.py',
+   'PYMODULE'),
+  ('aiohttp.payload_streamer',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\aiohttp\\payload_streamer.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('gd.memory',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\memory\\__init__.py',
+   'PYMODULE'),
+  ('gd.memory.interface',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\memory\\interface.py',
+   'PYMODULE'),
+  ('gd.utils.text_tools',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\text_tools.py',
+   'PYMODULE'),
+  ('gd.api.enums',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\api\\enums.py',
+   'PYMODULE'),
+  ('enums',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\enums.py',
+   'PYMODULE'),
+  ('gd.memory.win',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\memory\\win.py',
+   'PYMODULE'),
+  ('gd.memory.utils',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\memory\\utils.py',
+   'PYMODULE'),
+  ('pefile',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pefile.py',
+   'PYMODULE'),
+  ('ordlookup',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\ordlookup\\__init__.py',
+   'PYMODULE'),
+  ('ordlookup.oleaut32',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\ordlookup\\oleaut32.py',
+   'PYMODULE'),
+  ('ordlookup.ws2_32',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\ordlookup\\ws2_32.py',
+   'PYMODULE'),
+  ('gd.memory.enums',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\memory\\enums.py',
+   'PYMODULE'),
+  ('gd.events',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\events\\__init__.py',
+   'PYMODULE'),
+  ('gd.events.utils',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\events\\utils.py',
+   'PYMODULE'),
+  ('gd.events.listener',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\events\\listener.py',
+   'PYMODULE'),
+  ('gd.utils.async_utils',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\async_utils.py',
+   'PYMODULE'),
+  ('gd.api',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\api\\__init__.py',
+   'PYMODULE'),
+  ('gd.api.verification_str',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\api\\verification_str.py',
+   'PYMODULE'),
+  ('gd.api.utils',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\api\\utils.py',
+   'PYMODULE'),
+  ('gd.api.struct',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\api\\struct.py',
+   'PYMODULE'),
+  ('gd.api._property',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\api\\_property.py',
+   'PYMODULE'),
+  ('gd.api.parser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\api\\parser.py',
+   'PYMODULE'),
+  ('gd.utils.search_utils',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\search_utils.py',
+   'PYMODULE'),
+  ('gd.api.save',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\api\\save.py',
+   'PYMODULE'),
+  ('gd.api.loader',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\api\\loader.py',
+   'PYMODULE'),
+  ('gd.api.hsv',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\api\\hsv.py',
+   'PYMODULE'),
+  ('gd.api.guidelines',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\api\\guidelines.py',
+   'PYMODULE'),
+  ('gd.api.editor',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\api\\editor.py',
+   'PYMODULE'),
+  ('gd.utils.tasks',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\tasks.py',
+   'PYMODULE'),
+  ('gd.utils',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\__init__.py',
+   'PYMODULE'),
+  ('gd._jokes',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\_jokes.py',
+   'PYMODULE'),
+  ('gd.utils.crypto.xor_cipher',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\crypto\\xor_cipher.py',
+   'PYMODULE'),
+  ('gd.utils.crypto',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\crypto\\__init__.py',
+   'PYMODULE'),
+  ('gd.utils.crypto.coders',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\crypto\\coders.py',
+   'PYMODULE'),
+  ('gd.utils.xml_parser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\xml_parser.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('gd.utils.routes',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\routes.py',
+   'PYMODULE'),
+  ('gd.utils.parser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\parser.py',
+   'PYMODULE'),
+  ('gd.utils.params',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\params.py',
+   'PYMODULE'),
+  ('gd.utils.http_request',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\http_request.py',
+   'PYMODULE'),
+  ('gd.utils.filters',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\filters.py',
+   'PYMODULE'),
+  ('gd.utils.enums',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\enums.py',
+   'PYMODULE'),
+  ('gd.utils.decorators',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\decorators.py',
+   'PYMODULE'),
+  ('gd.utils.converter',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\converter.py',
+   'PYMODULE'),
+  ('gd.version',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\version.py',
+   'PYMODULE'),
+  ('gd.user',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\user.py',
+   'PYMODULE'),
+  ('gd.utils.indexer',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\indexer.py',
+   'PYMODULE'),
+  ('gd.song',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\song.py',
+   'PYMODULE'),
+  ('gd.session',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\session.py',
+   'PYMODULE'),
+  ('gd.utils.ng_parser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\ng_parser.py',
+   'PYMODULE'),
+  ('html5lib',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\__init__.py',
+   'PYMODULE'),
+  ('html5lib.serializer',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\serializer.py',
+   'PYMODULE'),
+  ('html5lib.filters.optionaltags',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\optionaltags.py',
+   'PYMODULE'),
+  ('html5lib.filters.base',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\base.py',
+   'PYMODULE'),
+  ('html5lib.filters',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\__init__.py',
+   'PYMODULE'),
+  ('html5lib.filters.sanitizer',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\sanitizer.py',
+   'PYMODULE'),
+  ('html5lib.filters.whitespace',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\whitespace.py',
+   'PYMODULE'),
+  ('html5lib.filters.alphabeticalattributes',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\alphabeticalattributes.py',
+   'PYMODULE'),
+  ('html5lib.filters.inject_meta_charset',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\inject_meta_charset.py',
+   'PYMODULE'),
+  ('html5lib.constants',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\constants.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treewalkers\\__init__.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.etree',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treewalkers\\etree.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.etree_lxml',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treewalkers\\etree_lxml.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders.etree',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treebuilders\\etree.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders.base',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treebuilders\\base.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.genshi',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treewalkers\\genshi.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.dom',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treewalkers\\dom.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.base',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treewalkers\\base.py',
+   'PYMODULE'),
+  ('html5lib.html5parser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\html5parser.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treebuilders\\__init__.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders.etree_lxml',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treebuilders\\etree_lxml.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders.dom',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treebuilders\\dom.py',
+   'PYMODULE'),
+  ('html5lib._ihatexml',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_ihatexml.py',
+   'PYMODULE'),
+  ('html5lib._tokenizer',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_tokenizer.py',
+   'PYMODULE'),
+  ('html5lib._trie',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_trie\\__init__.py',
+   'PYMODULE'),
+  ('html5lib._trie.py',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_trie\\py.py',
+   'PYMODULE'),
+  ('html5lib._trie._base',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_trie\\_base.py',
+   'PYMODULE'),
+  ('html5lib._inputstream',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_inputstream.py',
+   'PYMODULE'),
+  ('webencodings',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\webencodings\\__init__.py',
+   'PYMODULE'),
+  ('webencodings.x_user_defined',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\webencodings\\x_user_defined.py',
+   'PYMODULE'),
+  ('webencodings.labels',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\webencodings\\labels.py',
+   'PYMODULE'),
+  ('html5lib._utils',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_utils.py',
+   'PYMODULE'),
+  ('gd.rewards',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\rewards.py',
+   'PYMODULE'),
+  ('gd.model',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\model.py',
+   'PYMODULE'),
+  ('gd.model_backend',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\model_backend.py',
+   'PYMODULE'),
+  ('gd.utils.index_parser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\utils\\index_parser.py',
+   'PYMODULE'),
+  ('gd.map_property',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\map_property.py',
+   'PYMODULE'),
+  ('gd.message',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\message.py',
+   'PYMODULE'),
+  ('gd.logging',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\logging.py',
+   'PYMODULE'),
+  ('gd.level_packs',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\level_packs.py',
+   'PYMODULE'),
+  ('gd.level',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\level.py',
+   'PYMODULE'),
+  ('gd.iconset',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\iconset.py',
+   'PYMODULE'),
+  ('gd.icon_factory',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\icon_factory.py',
+   'PYMODULE'),
+  ('gd.friend_request',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\friend_request.py',
+   'PYMODULE'),
+  ('gd.errors',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\errors.py',
+   'PYMODULE'),
+  ('gd.comment',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\comment.py',
+   'PYMODULE'),
+  ('gd.colors',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\colors.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('gd.client',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\client.py',
+   'PYMODULE'),
+  ('gd.abstractuser',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\abstractuser.py',
+   'PYMODULE'),
+  ('gd.abstractentity',
+   'c:\\users\\lorenzo '
+   'wolczko\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\gd\\abstractentity.py',
+   'PYMODULE')])
